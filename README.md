@@ -71,9 +71,10 @@ Dark Mode :
 This project is licensed under the MIT License.
 
 ## 🙌 Acknowledgements
+
 Special thanks to:
 
-React: For an amazing JavaScript library.
-Vite: For a blazing fast development environment.
-Shields.io: For the awesome badges.
-And everyone who supports this project!
+- **React**: For an amazing JavaScript library.
+- **Vite**: For a blazing fast development environment.
+- **Shields.io**: For the awesome badges.
+- And everyone who supports this project!
