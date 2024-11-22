@@ -60,11 +60,11 @@ This project is ready to be deployed. You can use platforms like:
 ## 📸 Screenshots
 Light Mode:
 
-![Light Mode](./Light%20Mode.png)
+![Light Mode](./Light-Mode.png)
 
 Dark Mode :
 
-![Dark Mode](./Dark%20Mode.png)
+![Dark Mode](./Dark-Mode.png)
 
 ## 📜 License
 
